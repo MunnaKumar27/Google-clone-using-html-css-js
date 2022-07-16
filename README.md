@@ -1,6 +1,6 @@
 # [Google-clone-using-html-css-js](https://munnakumar27.github.io/Google-clone-using-html-css-js/)
 # [deployed Link](https://munnakumar27.github.io/Google-clone-using-html-css-js/)
-Google-clone using html css js
+### Google-clone using html css js
 # screenshots
 ![image](https://user-images.githubusercontent.com/96313339/179235841-6681cc4f-f487-45d2-93d8-f6fcf1ad9afa.png)
 ![image](https://user-images.githubusercontent.com/96313339/179235544-3e86d19d-04d1-4def-8e9a-8b81d8c8f551.png)
